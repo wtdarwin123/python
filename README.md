@@ -1,2 +1,1 @@
-# python
-python?
+#copy and paste into your fav pyrhon ide!
